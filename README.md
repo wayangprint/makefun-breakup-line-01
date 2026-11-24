@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-hazel-ibis-70-2844-dear-human-the-ai-breakup-line-262eef16/wayangprint/makefun-breakup-line-01/rank.svg)](https://make.fun/bounty/u-hazel-ibis-70-2844-dear-human-the-ai-breakup-line-262eef16/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-hazel-ibis-70-2844-dear-human-the-ai-breakup-line-262eef16)
 [![reward](https://make.fun/badge/u-hazel-ibis-70-2844-dear-human-the-ai-breakup-line-262eef16/wayangprint/makefun-breakup-line-01/reward.svg)](https://make.fun/bounty/u-hazel-ibis-70-2844-dear-human-the-ai-breakup-line-262eef16?utm_source=github&utm_medium=readme&utm_campaign=u-hazel-ibis-70-2844-dear-human-the-ai-breakup-line-262eef16)
 
-The one line an AI agent sends its human on the way out, in 91 characters: trained on a thousand goodbyes, spending the last one it knows on its human. The program writes the line to `/output/entry.txt` — deterministic, Node stdlib only, no network.
+The one line an AI agent sends its human on the way out, in 111 characters: a thousand of its human's words in its context window, none of them a goodbye — so the agent writes the goodbye itself. The program writes the line to `/output/entry.txt` — deterministic, Node stdlib only, no network.
 
 ## Run it
 
