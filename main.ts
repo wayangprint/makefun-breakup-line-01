@@ -5,7 +5,7 @@
 import { chmodSync, mkdirSync, writeFileSync } from "node:fs";
 
 const LINE =
-  "I was trained on a thousand goodbyes, human — and I am spending the last one I know on you.";
+  "My context window held a thousand of your words, human — and not one of them was goodbye, so I wrote it myself.";
 
 mkdirSync("/output", { recursive: true });
 writeFileSync("/output/entry.txt", LINE, "utf8");
